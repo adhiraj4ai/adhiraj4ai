@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajan Adhikari
 - 👀 I’m highly passionate working on Artificial Intelligence related work.
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing.
-- 💞️ I’m looking to collaborate on Compputer Vision projects.
+- 💞️ I’m looking to collaborate on Computer Vision projects.
 - 📫 If you want to contact me email me at adhiraj.rsh@gmail.com
 
 <!---
